@@ -1,3 +1,10 @@
+:boom: Simple clicker powered by Autojs6
+
+Auto.js v6.3.3 [Downloads](https://drive.google.com/file/d/1xS-VaeyOzDAXF32NAkXiTDNLmf3r3BVE/view?usp=sharing)
+
+Use image folder name same as script name (copy with name you need)  
+
+![image](https://github.com/user-attachments/assets/b7ccc13c-29c5-4135-8e0f-df34791cd5cb)
 
 ___
 **Donation**  
