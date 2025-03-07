@@ -4,7 +4,8 @@ Auto.js v6.3.3 [Downloads](https://drive.google.com/file/d/1xS-VaeyOzDAXF32NAkXi
 
 Use image folder name same as script name (copy with name you need)  
 
-![image](https://github.com/user-attachments/assets/39744a59-3f58-415e-be97-cbcae36b705c)
+![image](https://github.com/user-attachments/assets/6220d4d2-9ec3-4687-b10a-d882317bd524)
+
 
 ___
 **Donation**  
